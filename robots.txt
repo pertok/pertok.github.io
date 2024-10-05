@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pertok.github.io/Dhz/sitemap.Dhz.gz
